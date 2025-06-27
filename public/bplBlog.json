@@ -1,0 +1,122 @@
+[
+  {
+    "player_id": "P001",
+    "cover_img": "https://i.ibb.co/cKFFyfXh/Shakib-Al-Hasan-1-1.jpg",
+    "player_name": "Shakibul-Hasan",
+    "country_name": "Bangladesh",
+    "batting_order": 1,
+    "player_price": 1200000,
+    "batting_style": "Right-hand"
+  },
+  {
+    "player_id": "P002",
+    "cover_img": "https://i.ibb.co/DPCgW0QN/mahmudullah-e1660476830395.jpg",
+    "player_name": "Mahmudullah",
+    "country_name": "Bangladesh",
+    "batting_order": 2,
+    "player_price": 1100000,
+    "batting_style": "Left-hand"
+  },
+  {
+    "player_id": "P003",
+    "cover_img": "https://i.ibb.co/HTnqQRLZ/44268-7220335-updates.webp",
+    "player_name": "Mustafizur-rahman",
+    "country_name": "Australia",
+    "batting_order": 3,
+    "player_price": 950000,
+    "batting_style": "Right-hand"
+  },
+  {
+    "player_id": "P004",
+    "cover_img": "https://i.ibb.co/DHKj15sh/Rahim-BAN.jpg",
+    "player_name": "Mushfiqur-Rahim",
+    "country_name": "Bangladesh",
+    "batting_order": 4,
+    "player_price": 880000,
+    "batting_style": "Right-hand"
+  },
+  {
+    "player_id": "P005",
+    "cover_img": "https://i.ibb.co/jvNw4LV3/quinton-de-kock-054147-3x4.webp",
+    "player_name": "Quinton de Kock",
+    "country_name": "South Africa",
+    "batting_order": 5,
+    "player_price": 1020000,
+    "batting_style": "Left-hand"
+  },
+  {
+    "player_id": "P006",
+    "cover_img": "https://i.ibb.co/PvQxQBY8/Tamim-Iqbal-AFP.webp",
+    "player_name": "Tamim-Iqbal",
+    "country_name": "Bangladesh",
+    "batting_order": 6,
+    "player_price": 970000,
+    "batting_style": "Right-hand"
+  },
+  {
+    "player_id": "P007",
+    "cover_img": "https://i.ibb.co/rGnnqgmF/402256.webp",
+    "player_name": "Max-Well",
+    "country_name": "Australia",
+    "batting_order": 7,
+    "player_price": 790000,
+    "batting_style": "Left-hand"
+  },
+  {
+    "player_id": "P008",
+    "cover_img": "https://i.ibb.co/Qvwg8rz9/Shahid-Afridi-2.webp",
+    "player_name": "Shahid-Afridi",
+    "country_name": "Pakistan",
+    "batting_order": 8,
+    "player_price": 890000,
+    "batting_style": "Right-hand"
+  },
+  {
+    "player_id": "P009",
+    "cover_img": "https://i.ibb.co/fYNdPcXs/lasith-malinga-1518060995.jpg",
+    "player_name": "Malinga",
+    "country_name": "Sri-lanka",
+    "batting_order": 9,
+    "player_price": 1000000,
+    "batting_style": "Right-hand"
+  },
+  {
+    "player_id": "P010",
+    "cover_img": "https://i.ibb.co/tTWmJtxC/dm-221207-INET-CRIC-indvban-2ndodi-miraz-nonbranded-global.webp",
+    "player_name": "Mehedi-Miraz",
+    "country_name": "Bangladesh",
+    "batting_order": 10,
+    "player_price": 930000,
+    "batting_style": "Right-hand"
+  },
+  {
+    "player_id": "P011",
+    "cover_img": "https://i.ibb.co/rKnz318M/1679487352-Afif.jpg",
+    "player_name": "Afif-Hasan",
+    "country_name": "Bangladesh",
+    "batting_order": 11,
+    "player_price": 1500000,
+    "batting_style": "Right-hand"
+  },
+  {
+    "player_id": "P012",
+    "cover_img": "https://i.ibb.co/Xf4whHvz/bangladesh-s-najmul-hossain-shanto-plays-a-shot.jpg",
+    "player_name": "Nazmul-Hasan",
+    "country_name": "Bangladesh",
+    "batting_order": 12,
+    "player_price": 980000,
+    "batting_style": "Right-hand"
+  }
+]
+
+
+
+
+
+
+
+
+
+
+
+
