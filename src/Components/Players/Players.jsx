@@ -2,7 +2,7 @@ import { useEffect, useState } from "react";
 import Player from "../Player/Player";
 import PropTypes from 'prop-types';
 
-const Players = () => {
+const Players = ({handleChooseplayer}) => {
 
     const [players, setPlayers] = useState([]);
 
@@ -26,6 +26,7 @@ const Players = () => {
                     players.map( (player, idx) => <Player 
                         key={idx}
                         player = {player}
+                        handleChooseplayer = {handleChooseplayer}
                         ></Player>)
                 }
             </div>

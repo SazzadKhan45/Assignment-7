@@ -2,7 +2,7 @@ import { ToastContainer } from 'react-toastify';
 import herobanner from '../../assets/banner-main.png'
 import PropTypes from 'prop-types';
 
-const Herobanner = ({handleFreeCridt, ToastContainer}) => {
+const Herobanner = ({handleFreeCridt}) => {
     return (
         <div className="flex justify-center text-center rounded py-16 -mx-2 bg-gradient-to-r from-gray-700 from-30% via-gray-600 via-100%">
             <div>

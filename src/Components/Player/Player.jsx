@@ -1,6 +1,6 @@
 import { FaUser } from "react-icons/fa";
 import { IoFlag } from "react-icons/io5";
-const Player = ({ player }) => {
+const Player = ({ player, handleChooseplayer }) => {
 
     const { cover_img, player_name, country_name,batting_style,player_price } = player;
 
@@ -28,7 +28,7 @@ const Player = ({ player }) => {
                 </div>
                 <div className="flex justify-between items-center">
                     <h2 className="font-bold">Price: {player_price} Tk</h2>
-                    <button className="bg-gray-300 rounded p-1">Choose Player</button>
+                    <button onClick={() => handleChooseplayer(player_price)} className="bg-gray-300 rounded p-1">Choose Player</button>
                 </div>
             </div>
         </div>
